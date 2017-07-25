@@ -211,6 +211,9 @@
       ".properties.uaa_database.external.port": {
         "value": "3306"
       },
+      ".properties.logger_endpoint_port": {
+        "value": "4443"
+      },
       ".properties.uaa_database.external.uaa_username": {
         "value": "{{db_uaa_username}}"
       },
